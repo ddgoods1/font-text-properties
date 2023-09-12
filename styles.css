@@ -23,7 +23,7 @@
     --dk-gray: #222;
 
     /* Font Stacks */
-    --heading fonts: 'Seymour One', Impact, sans-serif; 
+    --heading-fonts: 'Seymour One', Impact, sans-serif; 
 	--body-fonts: Lato, Arial, sans-serif;
 }
 
@@ -35,7 +35,7 @@ body{
 	/* set the font size to 1.1rem	*/
 	font-size: 1.1 rem;
 	/* set the font color to #222 (--dk-gray) */
-	ccolor: var(--dk-gray);
+	color: var(--dk-gray);
 	margin: 0;
 	padding: 0;
 }
